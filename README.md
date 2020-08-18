@@ -6,7 +6,7 @@ a static html-file that can be viewed at
 1. Fork this repository
 2. Click on the repository-settings
 3. Enable Github-Pages for the root-folder of the repository
-4. Adjust the README-file to you own needs
+4. Adjust the README-file to your own needs
 
 ## Issues
 There are no known [issues](https://github.com/bruceLee-kungFu/hello_html/issues).
